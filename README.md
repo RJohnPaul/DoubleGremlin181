@@ -1,5 +1,5 @@
 # Hi, I'm Kavish!
-### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile
+### Welcome to<img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>My GitHub Profile
 
 <p align="center">
   <a href="https://kavishhukmani.me/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
